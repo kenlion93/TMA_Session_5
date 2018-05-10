@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\Session_5\Session_5\bin\Debug\Session_5.exe.config
+C:\Users\Administrator\Desktop\Session_5\Session_5\obj\Debug\Session_5.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Session_5\Session_5\bin\Debug\Session_5.exe
+C:\Users\Administrator\Desktop\Session_5\Session_5\bin\Debug\Session_5.pdb
+C:\Users\Administrator\Desktop\Session_5\Session_5\obj\Debug\Session_5.exe
+C:\Users\Administrator\Desktop\Session_5\Session_5\obj\Debug\Session_5.pdb
